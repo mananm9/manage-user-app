@@ -1,0 +1,14 @@
+{
+    "profile":{
+        "CountryCode": "IN",
+        "ERPMUserId": 0,
+        "ElectronicAddresses": null,
+        "EmailId": "mananx.mangal@intel.com",
+        "EnterpriseId": 11719035,
+        "FirstName": "Manan",
+        "IsActive": true,
+        "IsInternal": true,
+        "LastName": "Mangal",
+        "LoginId": "mananmax"
+    }
+}
